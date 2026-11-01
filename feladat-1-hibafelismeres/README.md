@@ -1,6 +1,6 @@
 # 1. feladat – Hiba felismerése kódban
 
-A megoldás az öt mellékelt oktatási képen látható specifikációra és JavaScript-programra épül. Minden programnál megadom a hibás részletet, az eltérés okát és a javítást. A teljes javított kód a [calculators.js](calculators.js), a futtatható ellenőrzések a [calculators.test.js](calculators.test.js) fájlban vannak.
+ A teljes javított kód a [calculators.js](calculators.js), a futtatható ellenőrzések a [calculators.test.js](calculators.test.js) fájlban vannak.
 
 ## 1. DiscountCalculator
 
